@@ -7,7 +7,7 @@
 # ==========================================
 
 name = "Anand"
-age = 22
+age = 21
 city = "Junagadh"
 
 print("----- Program 1 -----")
