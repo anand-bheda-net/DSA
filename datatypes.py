@@ -73,7 +73,7 @@ print("\n----- Program 5 -----")
 my_list = [10, 20, 30]
 my_tuple = (10, 20, 30)
 my_set = {10, 20, 30}
-my_dictionary = {"name": "Anand", "age": 22}
+my_dictionary = {"name": "Anand", "age": 21}
 
 print("List:", my_list)
 print("Type:", type(my_list))
